@@ -1,0 +1,25 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+!.env.example
+.vercel
+.output
+
+package-lock.json
+
+prisma/migrations
+prisma/dev.db
+prisma/dev.db-journal
+
+.env
+.env.*
+
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+.vercel/output/*
+src/routes/(protected)/bulk_signup/*
+src/routes/(protected)/bulk_signup
+# Sentry
+.sentryclirc
