@@ -1,5 +1,5 @@
 {
-  "name": "goldcrested",
+  "name": "shadcn-tab-workaround",
   "version": "0.0.2",
   "scripts": {
     "dev": "vite dev",
